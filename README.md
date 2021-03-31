@@ -1,1 +1,2 @@
-# care-race
+# synchronousBallMovement
+Ball moving synchronously
